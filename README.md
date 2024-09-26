@@ -4,3 +4,7 @@
 - NMapsGeometry 1.0.1
 - TMapSDK 2.16
 - NaverThirdPartyLogin 4.2.1
+
+
+Uploading sample_1920x1080.mov…
+
